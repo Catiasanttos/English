@@ -5,6 +5,9 @@ theme:
   name: material
   language: en
 
+markdown_extensions:
+  - pymdownx.emoji
+  
 
 
 
